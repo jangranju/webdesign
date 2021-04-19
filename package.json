@@ -1,0 +1,14 @@
+{
+  "name": "webdesign",
+  "version": "0.0.1",
+  "description": "webdesign Lesson1",
+  "main": "index.js",
+  "author": "Anju",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
